@@ -7,6 +7,8 @@ Si Kafka corre a través de Docker ejecutar este comando para entrar dentro del 
 docker exec -it <CONTAINER_NAME> bash
 ```
 
+`<BROKER>` = localhost:9092
+
 ## Gestión de brokers
 
 | Comando                                                                                                          | Uso                                                     |
